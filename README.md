@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Adeem-Treef/3-column-preview-card-component)
-- Live Site URL: (https://github.com/Adeem-Treef/3-column-preview-card-component)
+- Live Site URL: (https://3-column-card-solution.netlify.app/)
 
 ## My process
 
